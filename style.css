@@ -231,7 +231,8 @@ a:active {
     font-size: 20px;
     text-decoration: none;
     padding-top: 1.5vh;
-    padding-bottom: 2.5vh;
+    padding-bottom: 1.5vh;
+    margin-bottom: 2vh;
     display: block;
     position: relative;
     transition: all 0.3s ease;
@@ -248,7 +249,7 @@ a:active {
     right: 50%;
     left: 50%;
     bottom: 0;
-    height: 2px;
+    height: 4px;
     background-color: #5546FF;
 }
 
