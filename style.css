@@ -85,7 +85,7 @@ a:active {
     -o-transition: all 0.5s;
     transition: all 0.5s;
     cursor: pointer;
-    margin: 5px;
+    margin-top: 5px;
 }
 
 .beliefs {
@@ -106,7 +106,7 @@ a:active {
     -o-transition: all 0.5s;
     transition: all 0.5s;
     cursor: pointer;
-    margin: 5px;
+    margin-top: 5px;
 }
 
 .relationships {
@@ -127,7 +127,7 @@ a:active {
     -o-transition: all 0.5s;
     transition: all 0.5s;
     cursor: pointer;
-    margin: 5px;
+    margin-top: 5px;
 }
 
 .romance {
@@ -228,7 +228,7 @@ a:active {
 .topnav a {
     color: white;
     margin-right: 8vw;
-    font-size: 15px;
+    font-size: 20px;
     text-decoration: none;
     padding-top: 1.5vh;
     padding-bottom: 2.5vh;
@@ -273,7 +273,7 @@ li {
     font-weight: 800;
     font-family: "Poppins", sans-serif;
     font-weight: normal !important;
-    margin-left: 10vw;
+    margin-left: 4vw;
     flex-direction: row;
 }
 }
@@ -287,5 +287,5 @@ li {
 .subpage-text {
     text-align: left;
     font-style: normal;
-    font-size: 20px !important;
+    font-size: 18px !important;
 }
